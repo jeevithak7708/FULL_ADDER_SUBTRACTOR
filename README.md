@@ -124,7 +124,7 @@ FULL SUBTRACTOR
 FULL ADDER
 
 
-
+![image](https://github.com/jeevithak7708/FULL_ADDER_SUBTRACTOR/blob/main/fulladder2.png)
 
 
 FULL SUBTRACTOR
