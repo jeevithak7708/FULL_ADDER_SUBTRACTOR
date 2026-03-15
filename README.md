@@ -2,6 +2,11 @@
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
+
+DEVELOPED BY: JEEVITHA K
+
+REGISTER NO: 212225040149
+
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -44,12 +49,76 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
+FULL ADDER
+
+
+```
+
+
+```
+
+FULL ADDER SUBTRACTOR
+
+```
+module sub(a,b,c,x,y,z,sum,dif,car,bor);
+input a,b,c,x,y,z;
+output sum,dif,car,bor;
+assign sum = a^b^c;
+assign car = a&b | a&c | b&c;
+assign dif = x^y^z;
+assign bor = ~x&z | ~x&y | y&z;
+endmodule
+```
+
+
+
+
 
 **RTL Schematic**
+FULL ADDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+FULL ADDER SUBTRACTOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Output Timing Waveform**
+FULL ADDER
+
+
+
+
+
+FULL ADDER SUBTRACTOR
+
+
+
+
+
 
 **Result:**
 
