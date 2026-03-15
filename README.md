@@ -93,7 +93,7 @@ endmodule
 FULL ADDER
 
 
-
+![image](https://github.com/jeevithak7708/FULL_ADDER_SUBTRACTOR/blob/main/fulladder.png)
 
 
 
