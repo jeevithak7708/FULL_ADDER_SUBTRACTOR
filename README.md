@@ -43,9 +43,9 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-**Procedure**
+![image](https://www.bing.com/images/search?view=detailV2&ccid=nezHi5WC&id=34CBDC8A3DD36BB5013AA37D2AE96AE7952CD506&thid=OIP.nezHi5WCrCM9WpBzo0n8OgHaFY&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-SUJYo2O1jnw%2fU41tbmBrd1I%2fAAAAAAAAAUI%2fhtiQFMZFrrA%2fs1600%2ffs.JPG&exph=603&expw=830&q=full+adder+and+subtractor+diagram&FORM=IRPRST&ck=B220718ED884621780E851326BB5AB41&selectedIndex=1&itb=0)
 
-Write the detailed procedure here
+
 
 **Program:**
 
