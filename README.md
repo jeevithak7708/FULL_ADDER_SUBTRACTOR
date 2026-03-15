@@ -130,7 +130,7 @@ FULL ADDER
 FULL SUBTRACTOR
 
 
-
+![image](https://github.com/jeevithak7708/FULL_ADDER_SUBTRACTOR/blob/main/Screenshot%20(55).png)
 
 
 
